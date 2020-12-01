@@ -1,4 +1,2 @@
 # GNDEC
-Official -  <pre>                     _designed by Yuvraj Singh_ </pre>
-
-
+Official &nbsp; &nbsp; &nbsp;  - _designed by Yuvraj Singh_
