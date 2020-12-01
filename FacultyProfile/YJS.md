@@ -1,4 +1,3 @@
-# Faculty Profile
 
 | Photo | ![Display picture](https://github.com/yuvrajsingh2304/yjs/blob/main/FacultyProfile/YJS/uv.png) 
 | ------ | -------- |
