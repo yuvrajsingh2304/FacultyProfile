@@ -9,4 +9,4 @@
 | Qualification | PhD (Pursuing), M.tech (Structural Engineering) - Gold Medalist, B.tech (Civil Engineering) - Gold Medalist |
 | No. of Publications (Journal) | 02 |
 | No. of Publications (Conference) | 12 |
-| Research Interest | Structural Health Monitoring, Duraility of Concrete Structures, Finite Element Analysis |
+| Research Interest | Structural Health Monitoring, Durability of Concrete Structures, Finite Element Analysis |
