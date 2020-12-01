@@ -1,16 +1,13 @@
 # Faculty Profile
 
-| Photo | ![Display picture](https://github.com/yuvrajsingh2304/yjs/FacultyProfile/YJS/uv.png)
-| ..... | ................|
+| Photo | ![Display picture](https://github.com/yuvrajsingh2304/yjs/blob/main/FacultyProfile/YJS/uv.png) 
+| ------ | -------- |
 | Name | Yuvraj Singh |
 | Date of Birth | 23/04/1991 |
 | Designation | Assistant Professor |
-| Name | Yuvraj Singh |
-| Official Email | yuvraj_singh@gndec.ac.in |
+| Email | yuvraj_singh@gndec.ac.in |
 | Experience | Assistant Professor @ GNDEC, Ludhiana (From August 2015 to till date) |
-| Qualification | PhD (Pursuing)
-				  M.tech (Structural Engineering) - Gold Medalist
-				  B.tech (Civil Engineering) - Gold Medalist|
+| Qualification | PhD (Pursuing), M.tech (Structural Engineering) - Gold Medalist, B.tech (Civil Engineering) - Gold Medalist |
 | No. of Publications (Journal) | 02 |
 | No. of Publications (Conference) | 12 |
 | Research Interest | Structural Health Monitoring, Duraility of Concrete Structures, Finite Element Analysis |
